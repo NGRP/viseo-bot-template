@@ -1,0 +1,5 @@
+{
+    "regexp.yes" : "^(ouai+s?|grave|wheee+|ou*h\\s+yeah|da|yep|tout\\s+à\\s+fait|ya|ja|yeah|oui+\\s*!*|ok\\s*!*|yes\\s*!*)$",
+    "regexp.no"  : "^((ça\\s+)?no+n*(\\s*!*)?(\\s+je\\s+ne\\s+veux\\s+pas)?|(ach\\s+)?nein|niet|o*h*?\\s+no*n?\\s*|nope|non\\s+merci|négatif)$",
+    "regexp.emoji" : "[\\uD800-\\uDFFF]."
+}
