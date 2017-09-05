@@ -47,5 +47,10 @@ Thumbs.db
 # Project
 ##########################################
 
-bin
-node_modules
+node-red-contrib/*/node_modules
+/data/*.db
+/data/*.log
+start.sh
+data/.sessions.json
+data/.*.backup
+data/node_modules
