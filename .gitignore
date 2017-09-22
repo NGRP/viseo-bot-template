@@ -54,3 +54,4 @@ start.sh
 data/.sessions.json
 data/.*.backup
 data/node_modules
+data/.config.json
