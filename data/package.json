@@ -5,7 +5,8 @@
     "dependencies": {},
     "node-red": {
         "settings": {
-            "flowFile": "data/flows.json"
+            "flowFile": "data/flows.json",
+            "credentialsFile": "data/flows_cred_<env>.json"
         }
     }
 }
