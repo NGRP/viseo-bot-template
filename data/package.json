@@ -5,7 +5,7 @@
     "dependencies": {},
     "node-red": {
         "settings": {
-            "flowFile": "flows.json"
+            "flowFile": "data/flows.json"
         }
     }
 }
