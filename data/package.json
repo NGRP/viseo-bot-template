@@ -1,5 +1,12 @@
 {
     "name": "node-red-project",
     "description": "A Node-RED Project",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "data/flows.json",
+            "credentialsFile": "data/flows_cred_<env>.json"
+        }
+    }
 }
